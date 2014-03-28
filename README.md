@@ -1,7 +1,9 @@
 PrivacySettings
 ===============
 
-What do we want?
+What do we want? 
+
+- Now that dclisteninglounge.com is explainging about 'Coloured sandwich recipe high safety'
 
 We want to be able to post updates (like "next meeting" and "meeting notes")
 
